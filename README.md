@@ -1,4 +1,4 @@
-# Power Outages Analysis and Modeling
+# Power Analysis and Modeling
 
 ### Project for DSC 80 at UCSD
 
